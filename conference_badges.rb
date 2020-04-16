@@ -1,1 +1,1 @@
-people = ["Edsger"]
+people = 
