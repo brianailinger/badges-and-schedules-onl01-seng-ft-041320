@@ -27,3 +27,6 @@ def printer(array)
     puts id 
   end
   
+  assign_rooms
+   
+
